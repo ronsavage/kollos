@@ -35,7 +35,7 @@ my(%params) =
 	},
 	TEST_REQUIRES =>
 	{
-		'Test::Simple'		=> 1.302052, # For Test::More.
+		'Test::More' => 1.001002,
 	},
 	VERSION_FROM => 'lib/Kollos.pm',
 );
