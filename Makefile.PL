@@ -29,6 +29,7 @@ my(%params) =
 	PL_FILES  => {},
 	PREREQ_PM =>
 	{
+		'Moo'		=> 2.003000,
 		'strict'	=> 0,
 		'warnings'	=> 0,
 	},
